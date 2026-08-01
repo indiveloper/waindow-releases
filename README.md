@@ -1,9 +1,9 @@
 # Waindow
 
-Waindow is a free, account-free native Mac utility for saved window workspaces,
-off-screen window rescue, window-specific Markdown memos, long-page capture,
-Linked Resize, Blackout Mode, Keep Awake, and optional local control through
-Shortcuts, MCP, or CLI.
+Waindow is a free, account-free native Mac utility for finding open windows,
+restoring workspaces, keeping local Markdown memos, finishing long-page
+captures, Linked Resize, Blackout Mode, Keep Awake, and optional local control
+through Shortcuts, MCP, or CLI.
 
 ## Download
 
@@ -28,9 +28,11 @@ before installing if you prefer.
 - Save named workspaces, preview every planned move, and restore them with undo.
 - Rescue windows whose title bars became unreachable after a display change.
 - Arrange and focus standard macOS windows.
+- Find an open window by app or title on demand with `Control–Option–P`.
 - Resize neighboring windows together with Linked Resize.
 - Attach searchable local Markdown memos to specific windows.
-- Capture supported long browser or document pages as one tall PNG.
+- Capture an idea in the local Quick Memo Inbox with `Control–Option–Shift–N`.
+- Capture supported long pages, then save, copy, pin, or extract text on device.
 - Darken connected displays temporarily with Blackout Mode.
 - Keep the Mac awake with display and timer choices.
 - Show total CPU or memory activity in the menu-bar icon.
@@ -43,8 +45,8 @@ comparisons show the missing features before you download:
 
 - [Rectangle or Waindow](https://www.waindow.app/rectangle-alternative) —
   dedicated keyboard and drag-to-edge window snapping versus a broader toolkit.
-- [Shottr or Waindow](https://www.waindow.app/shottr-vs-waindow) — dedicated
-  screenshot annotation and OCR versus simple long-page capture beside work tools.
+- [Shottr or Waindow](https://www.waindow.app/shottr-vs-waindow) — deep
+  screenshot editing versus focused long-page capture beside work tools.
 - [Amphetamine or Waindow](https://www.waindow.app/amphetamine-vs-waindow) —
   deep keep-awake automation versus a simpler manual session in the same toolkit.
 
@@ -54,9 +56,9 @@ Choose the specialist when its deeper workflow is the main job.
 
 - macOS 13.1 or later
 - Apple Silicon or Intel Mac
-- Current release: Waindow 1.5.0
-- ZIP size: 5.83 MB (5,830,493 bytes)
-- SHA-256: `b84688fa98951bd1c117122c682b7c81f25c0a9b0e40ca2c9a993ae05002d612`
+- Current release: Waindow 1.6.0 (115)
+- ZIP size: 6.05 MB (6,045,186 bytes)
+- SHA-256: `70499f2c773a0dd11d6f31d4f68ca03afd83af805e63d3cbb8d4ff567fe7b399`
 
 ## First launch
 
