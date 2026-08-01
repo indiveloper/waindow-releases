@@ -106,6 +106,7 @@ not included or licensed as open source.
 - [Verified product facts](https://www.waindow.app/about)
 - [Verified product updates](https://www.waindow.app/updates)
 - [Product updates RSS](https://www.waindow.app/updates/feed.xml)
+- [Maker: indiveloper](https://github.com/indiveloper) · [@sornrus on X](https://x.com/sornrus)
 - [Public feedback](https://github.com/indiveloper/waindow-releases/discussions/1)
 - [Report a reproducible issue](https://github.com/indiveloper/waindow-releases/issues/new)
 
