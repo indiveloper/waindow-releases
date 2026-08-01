@@ -62,9 +62,9 @@ Choose the specialist when its deeper workflow is the main job.
 
 - macOS 13.1 or later
 - Apple Silicon or Intel Mac
-- Current release: Waindow 1.7.1 (117)
-- ZIP size: 7.58 MB (7,582,358 bytes)
-- SHA-256: `cb5b9ced55b7b94ee72de039ef9b7239468790fe3b5b917aa2e531345ccc072c`
+- Current release: Waindow 1.7.2 (118)
+- ZIP size: 7.58 MB (7,580,805 bytes)
+- SHA-256: `e6246109a47afdc36e3ffa54db93308931891f6194b0e33dda61dde9be0232d5`
 
 ## First launch
 
