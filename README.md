@@ -1,9 +1,9 @@
 # Waindow
 
-Waindow is a free, account-free native Mac utility for finding open windows,
+Waindow is a free, account-free native Mac utility for arranging windows,
 restoring workspaces, keeping local Markdown memos, finishing long-page
-captures, Linked Resize, Blackout Mode, Keep Awake, and optional local control
-through Shortcuts, MCP, or CLI.
+captures, presenting and recording product demos, and running optional local
+actions through Shortcuts, MCP, or CLI.
 
 ## Download
 
@@ -36,6 +36,12 @@ before installing if you prefer.
 - Darken connected displays temporarily with Blackout Mode.
 - Keep the Mac awake with display and timer choices.
 - Show total CPU or memory activity in the menu-bar icon.
+- Search Waindow actions and recent workspaces from the keyboard-friendly Quick Panel.
+- Point, spotlight, annotate, and restore a live presentation session without recording it.
+- Record a display, app, window, or region into a recoverable local Studio project.
+- Trim, split, reframe, enhance pointer movement, and export MP4 or short GIF files locally.
+- Hold only files or text you explicitly add in Temporary Shelf; the clipboard is never watched.
+- Take one fresh Mac status snapshot without a background sampler or stored history.
 - Run bounded local actions from Shortcuts, compatible MCP clients, or CLI.
 
 ## Choose by the job
@@ -56,9 +62,9 @@ Choose the specialist when its deeper workflow is the main job.
 
 - macOS 13.1 or later
 - Apple Silicon or Intel Mac
-- Current release: Waindow 1.6.0 (115)
-- ZIP size: 6.05 MB (6,045,186 bytes)
-- SHA-256: `70499f2c773a0dd11d6f31d4f68ca03afd83af805e63d3cbb8d4ff567fe7b399`
+- Current release: Waindow 1.7.0 (116)
+- ZIP size: 7.57 MB (7,570,480 bytes)
+- SHA-256: `e6131aa87b1a352dbbf105e73b6f8d452c6aa461820455a2ecdfe4225c643ad8`
 
 ## First launch
 
@@ -76,9 +82,11 @@ Never disable Gatekeeper.
 ## Privacy and product boundary
 
 Waindow has no account, payment, subscription, trial, product key, usage limit,
-advertising, or app telemetry. It does not include an AI model, voice input,
+advertising, or app telemetry. It does not include an AI model, voice transcription,
 AI-session monitoring, terminal monitoring, or work-progress alerts. Memos and
-preferences stay local on the Mac.
+preferences stay local on the Mac. Studio records only the source and optional
+microphone or camera explicitly chosen for that recording; projects and exports
+stay local.
 
 This is a distribution-only repository. It contains release documentation and
 the current compiled release asset; application and website source code are
