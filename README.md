@@ -1,8 +1,9 @@
 # Waindow
 
-Waindow is a free, account-free native Mac utility for window layouts,
-window-specific Markdown memos, long-page capture, Linked Resize, Blackout
-Mode, Keep Awake, and optional local control through Shortcuts, MCP, or CLI.
+Waindow is a free, account-free native Mac utility for saved window workspaces,
+off-screen window rescue, window-specific Markdown memos, long-page capture,
+Linked Resize, Blackout Mode, Keep Awake, and optional local control through
+Shortcuts, MCP, or CLI.
 
 ## Download
 
@@ -24,7 +25,9 @@ before installing if you prefer.
 
 ## What it does
 
-- Arrange, focus, save, and restore standard macOS windows.
+- Save named workspaces, preview every planned move, and restore them with undo.
+- Rescue windows whose title bars became unreachable after a display change.
+- Arrange and focus standard macOS windows.
 - Resize neighboring windows together with Linked Resize.
 - Attach searchable local Markdown memos to specific windows.
 - Capture supported long browser or document pages as one tall PNG.
@@ -51,9 +54,9 @@ Choose the specialist when its deeper workflow is the main job.
 
 - macOS 13.1 or later
 - Apple Silicon or Intel Mac
-- Current release: Waindow 1.4.3
-- ZIP size: 5.22 MB (5,222,385 bytes)
-- SHA-256: `a12f466122e6605c9a9b6001085338390215b4c9749b39f51b2fee74ea0c8c4b`
+- Current release: Waindow 1.5.0
+- ZIP size: 5.83 MB (5,830,493 bytes)
+- SHA-256: `b84688fa98951bd1c117122c682b7c81f25c0a9b0e40ca2c9a993ae05002d612`
 
 ## First launch
 
