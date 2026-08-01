@@ -58,6 +58,14 @@ comparisons show the missing features before you download:
 
 Choose the specialist when its deeper workflow is the main job.
 
+## Independent public listing
+
+Waindow appears in the
+[Awesome Free Apps Window Management directory](https://github.com/Axorax/awesome-free-apps#window-management)
+after its maintainer merged [PR #221](https://github.com/Axorax/awesome-free-apps/pull/221).
+This is a directory listing, not a product review, rating, endorsement, or proof
+of usage.
+
 ## Requirements
 
 - macOS 13.1 or later
