@@ -33,6 +33,7 @@ before installing if you prefer.
 - Attach searchable local Markdown memos to specific windows.
 - Capture an idea in the local Quick Memo Inbox with `Control–Option–Shift–N`.
 - Capture supported long pages, then save, copy, pin, or extract text on device.
+- Drag over visible text anywhere on screen and copy it locally without saving a screenshot.
 - Darken connected displays temporarily with Blackout Mode.
 - Keep the Mac awake with display and timer choices.
 - Show total CPU or memory activity in the menu-bar icon.
@@ -70,9 +71,9 @@ of usage.
 
 - macOS 13.1 or later
 - Apple Silicon or Intel Mac
-- Current release: Waindow 1.7.7 (124)
-- ZIP size: 7.59 MB (7,585,188 bytes)
-- SHA-256: `ce28024fc221908e6d7387be007b1f44868c32d575e72a37cc79952ce8a5601e`
+- Current release: Waindow 1.8.0 (125)
+- ZIP size: 7.68 MB (7,680,972 bytes)
+- SHA-256: `4e1ef60260afae338ed6926232f62af41843847abf8a4a8e4096dc0692b3a037`
 
 ## First launch
 
@@ -94,7 +95,8 @@ advertising, or app telemetry. It does not include an AI model, voice transcript
 AI-session monitoring, terminal monitoring, or work-progress alerts. Memos and
 preferences stay local on the Mac. Studio records only the source and optional
 microphone or camera explicitly chosen for that recording; projects and exports
-stay local.
+stay local. Screen Text runs only when invoked, keeps the frozen frame in memory,
+and creates no screenshot file, OCR history, telemetry, or network request.
 
 This is a distribution-only repository. It contains release documentation and
 the current compiled release asset; application and website source code are
