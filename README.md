@@ -36,7 +36,7 @@ before installing if you prefer.
 - Darken connected displays temporarily with Blackout Mode.
 - Keep the Mac awake with display and timer choices.
 - Show total CPU or memory activity in the menu-bar icon.
-- Search Waindow actions and recent workspaces from the keyboard-friendly Quick Panel.
+- Open the complete menu with one menu-bar click, or double-click for shortcut-aware Quick Panel search.
 - Point, spotlight, annotate, and restore a live presentation session without recording it.
 - Record a display, app, window, or region into a recoverable local Studio project.
 - Trim, split, reframe, enhance pointer movement, and export MP4 or short GIF files locally.
@@ -70,9 +70,9 @@ of usage.
 
 - macOS 13.1 or later
 - Apple Silicon or Intel Mac
-- Current release: Waindow 1.7.5 (121)
-- ZIP size: 7.53 MB (7,532,871 bytes)
-- SHA-256: `30a3a3842de9a83155937a46d7157dac7844f0044606b1b2f2ac8e85d6d623cc`
+- Current release: Waindow 1.7.6 (123)
+- ZIP size: 7.56 MB (7,558,241 bytes)
+- SHA-256: `aa247af2613166676528bf250273520cea7fca256f9e96ab1903a51fb59d8536`
 
 ## First launch
 
