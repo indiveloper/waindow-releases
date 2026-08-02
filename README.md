@@ -70,9 +70,9 @@ of usage.
 
 - macOS 13.1 or later
 - Apple Silicon or Intel Mac
-- Current release: Waindow 1.7.4 (120)
-- ZIP size: 7.53 MB (7,526,613 bytes)
-- SHA-256: `8afdfadc75e944087189b152dc6ff05919132ad02f42f63c3fa951fbdda0f996`
+- Current release: Waindow 1.7.5 (121)
+- ZIP size: 7.53 MB (7,532,871 bytes)
+- SHA-256: `30a3a3842de9a83155937a46d7157dac7844f0044606b1b2f2ac8e85d6d623cc`
 
 ## First launch
 
