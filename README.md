@@ -1,9 +1,14 @@
 # Waindow
 
-Waindow is a free, account-free native Mac utility for arranging windows,
-restoring workspaces, keeping local Markdown memos, finishing long-page
-captures, presenting and recording product demos, and running optional local
-actions through Shortcuts, MCP, or CLI.
+Waindow is a native Mac utility for arranging windows, restoring workspaces,
+keeping local Markdown memos, finishing long-page captures, copying visible
+screen text, tidying the menu bar, presenting and recording product demos, and
+running optional local actions through Shortcuts, MCP, or CLI.
+
+Every feature is currently free to use. Waindow becomes a paid app on
+**December 1, 2026** (future pricing and license terms have not yet been
+announced). The current `1.11.0` build requires no account, product key, or
+subscription.
 
 ## Download
 
@@ -27,22 +32,20 @@ before installing if you prefer.
 
 - Save named workspaces, preview every planned move, and restore them with undo.
 - Rescue windows whose title bars became unreachable after a display change.
-- Arrange and focus standard macOS windows.
-- Find an open window by app or title on demand with `Control–Option–P`.
-- Resize neighboring windows together with Linked Resize.
-- Attach searchable local Markdown memos to specific windows.
-- Capture an idea in the local Quick Memo Inbox with `Control–Option–Shift–N`.
-- Capture supported long pages, then save, copy, pin, or extract text on device.
-- Drag over visible text anywhere on screen and copy it locally without saving a screenshot.
-- Darken connected displays temporarily with Blackout Mode.
-- Keep the Mac awake with display and timer choices.
-- Show total CPU or memory activity in the menu-bar icon.
+- Arrange standard macOS windows into full-height columns or toggle to a balanced grid (`Control–Option–A`), plus halves, quarters, thirds, center, maximize, display moves, and restore.
+- Browse open, minimized, and off-screen windows as album cards with Window Finder (`Control–Option–P`) and bring the chosen window to the center of the current display.
+- Hold a window edge or corner for 1 second to resize neighboring windows together with Linked Resize and flowing neon outlines.
+- Attach searchable local Markdown memos to specific windows (`Control–Option–N` / `Control–Option–Shift–N`); closing a window retains its notes with the app in the same unified editor.
+- Capture supported long pages (`Control–Option–S`), then save, copy, pin, or extract text on device.
+- Drag over visible text anywhere on screen (`Control–Option–Shift–S`) and copy it locally without saving a screenshot.
+- Hide extra menu-bar icons behind a permission-free Waindow divider (`Control–Option–H`) and search menu-bar items by name from the Quick Panel.
+- Darken connected displays temporarily with Blackout Mode (`Control–Option–B`).
+- Keep the Mac awake with display, timer, end-time, and direct-build closed-lid choices.
+- Show whole-Mac CPU or memory activity in the four-tile menu-bar icon, and inspect live per-app CPU (≥ 1%) and memory (≥ 200 MB) usage while Mac Status is open.
 - Open the complete menu with one menu-bar click, or double-click for shortcut-aware Quick Panel search.
 - Point, spotlight, annotate, and restore a live presentation session without recording it.
 - Record a display, app, window, or region into a recoverable local Studio project.
 - Trim, split, reframe, enhance pointer movement, and export MP4 or short GIF files locally.
-- Hold only files or text you explicitly add in Temporary Shelf; the clipboard is never watched.
-- Take one fresh Mac status snapshot without a background sampler or stored history.
 - Run bounded local actions from Shortcuts, compatible MCP clients, or CLI.
 
 ## Choose by the job
@@ -71,9 +74,9 @@ of usage.
 
 - macOS 13.1 or later
 - Apple Silicon or Intel Mac
-- Current release: Waindow 1.8.0 (125)
-- ZIP size: 7.68 MB (7,680,972 bytes)
-- SHA-256: `4e1ef60260afae338ed6926232f62af41843847abf8a4a8e4096dc0692b3a037`
+- Current release: Waindow 1.11.0 (129)
+- ZIP size: 7.96 MB (7,956,976 bytes)
+- SHA-256: `56784ab8956f9367f07f93f12da777afd003df112d9de93cbdf5f7c316ddeb58`
 
 ## First launch
 
@@ -90,13 +93,18 @@ Never disable Gatekeeper.
 
 ## Privacy and product boundary
 
-Waindow has no account, payment, subscription, trial, product key, usage limit,
-advertising, or app telemetry. It does not include an AI model, voice transcription,
-AI-session monitoring, terminal monitoring, or work-progress alerts. Memos and
-preferences stay local on the Mac. Studio records only the source and optional
-microphone or camera explicitly chosen for that recording; projects and exports
-stay local. Screen Text runs only when invoked, keeps the frozen frame in memory,
-and creates no screenshot file, OCR history, telemetry, or network request.
+Waindow is currently free to use and transitions to a paid app on December 1,
+2026. The current `1.11.0` build has no account, payment, subscription, trial,
+product key, usage limit, advertising, or app telemetry. It does not include an
+AI model, voice transcription, AI-session monitoring, terminal monitoring, or
+work-progress alerts. Memos and preferences stay local on the Mac. Studio
+records only the source and optional microphone or camera explicitly chosen for
+that recording; projects and exports stay local. Screen Text runs only when
+invoked, keeps the frozen frame in memory, and creates no screenshot file, OCR
+history, telemetry, or network request. Mac Status reads local process names,
+executable paths, CPU time, and memory footprints only while its panel is
+visible, stops sampling and clears displayed process data when closed or hidden,
+never reads command arguments or document contents, and stores no history.
 
 This is a distribution-only repository. It contains release documentation and
 the current compiled release asset; application and website source code are
